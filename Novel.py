@@ -33,7 +33,7 @@ def show_location(current_location):
 	new_location = results[int(choice)-1]
 	return new_location
 
-
+#This code is missing an underground option, and therefore crashes whenever it comes up. Same with anything happening in the city.
 
 
 world = {

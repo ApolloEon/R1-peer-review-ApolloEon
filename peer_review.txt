@@ -1,0 +1,31 @@
+Name: Tanner Hovis-Johnson
+Date: 4/1/2018
+Peer's project: Apollo's branching novel
+
+What is something you learned by reviewing your peer's project?
+
+	I learned more about this way of making "rooms" in this type of game.
+
+What is something you saw in your peer's project that you would like to apply to your own programming projects?
+
+	I'd like to work more with the dictionaries and the while statement at the bottom.
+
+What suggestions would you have for your peer to improve his/her code?
+
+	Make sure to go through all the paths to ensure that they work!
+
+What could have been clearer or better commented?
+
+	It was fairly easy to rad, but I would like to know more about some of the paths and where they lead.
+
+Was there anything in the code that was confusing to you? If so, what?
+
+	Not in particular.
+
+What is something he/she could add to the README.md to make it more descriptive?
+
+	The readme was changed for this peer review so I would like a more in depth about the game itself.
+
+Pay a compliment to your peer based on the quality of his/her code.
+	
+	I enjoyed the comedy found in it, as well as the while statement at the bottom. The organization was easy to read.
